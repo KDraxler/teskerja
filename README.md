@@ -9,4 +9,5 @@
  * Harap import database yang telah disediakan (disarankan menggunakan nama database "teskerja").
  * Aplikasi ini menggunakan CSS Bootstrap Online, jadi diharapkan untuk terhubung ke internet ketika menjalankan aplikasi.
  * Dalam studikasus kata e-business saya hitung menjadi 2 kata, karena berasal dari kata Electronic dan Business. Begitu pula dengan day-to-day terdiri dari 3 kata.
+ * Untuk database dan jawaban text case 2 ada pada folder "file_pendukung".
  
