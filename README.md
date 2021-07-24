@@ -3,7 +3,8 @@
  
  #RestAPI
  * RestAPI terletak pada controller "Rest".
- * Untuk mengakses RestAPI dapat menggunakan url http://localhost:8080/teskerja/index.php/Rest
+ * Untuk mengakses RestAPI dapat menggunakan url http://localhost:8080/teskerja/index.php/Rest (Dapat diakses mengunakan postman dengan method get, post, put, delete. Namun harus melakukan instalasi projek secara local.)
+ * Untuk mengakses RestAPI tanpa harus instalasi projek dapat menggunakan url http://teskerja.epizy.com/index.php/Rest/ (tidak disarankan menggunakan postman, dikarenakan keterbatasan layanan dari web hosting. untuk dapat mengakses RestAPI mrnggunakan url tersebut dapat menggunakan web browser yang mendukung javascript.)
  
  #Note
  * Harap import database yang telah disediakan (disarankan menggunakan nama database "teskerja").
